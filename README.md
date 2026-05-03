@@ -29,6 +29,7 @@ Run in Administrator PowerShell:
 ```powershell
 .\git_install.ps1
 .\python3.12_install.ps1
+
 Verify Installation:
 설치 후 확인:
 git --version
@@ -37,7 +38,8 @@ conda --version
 jupyter --version
 
 ---
-❌ Removal / 삭제 방법
+
+## ❌ Removal / 삭제 방법
 Run in Administrator PowerShell:
 관리자 권한 PowerShell에서 실행:
 
