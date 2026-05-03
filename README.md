@@ -27,8 +27,8 @@ Run in Administrator PowerShell:
 관리자 권한 PowerShell에서 실행:
 
 ```powershell
-.\git_install.ps1
-.\python3.12_install.ps1
+.\git_set\git_install.ps1
+.\python3.12_set\python3.12_install.ps1
 
 Verify Installation:
 설치 후 확인:
@@ -45,8 +45,8 @@ Run in Administrator PowerShell:
 관리자 권한 PowerShell에서 실행:
 
 ```powershell
-.\git_remove.ps1
-.\python3.12_remove.ps1
+.\git_set\git_remove.ps1
+.\python3.12_set\python3.12_remove.ps1
 
 Verify removal:
 삭제 후 확인:
