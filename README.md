@@ -36,6 +36,7 @@ git --version
 python --version
 conda --version
 jupyter --version
+```
 
 ---
 
@@ -52,3 +53,5 @@ git --version
 python --version
 conda --version
 jupyter --version
+
+---
