@@ -44,6 +44,7 @@ jupyter --version
 Run in Administrator PowerShell:
 관리자 권한 PowerShell에서 실행:
 
+```powershell
 .\git_remove.ps1
 .\python3.12_remove.ps1
 
@@ -53,5 +54,4 @@ git --version
 python --version
 conda --version
 jupyter --version
-
----
+```
